@@ -1,0 +1,105 @@
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN'
+			'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+
+		<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en' lang='en'>
+		<head>
+		<meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
+
+		<title>  : leslie Zhang</title>
+
+		<link rel='stylesheet' href='http://www.lesliezhang.com/ndxz-studio/site/eatock/style.css' type='text/css' />
+		<!--[if lte IE 6]>
+		<link rel='stylesheet' href='http://www.lesliezhang.com/ndxz-studio/site/eatock/ie.css' type='text/css' />
+		<![endif]-->
+		
+		<style type='text/css'>
+#img-container { width: 1475px; }
+#img-container #text { float: left; width: 325px; }
+#img-container #text p { width: 250px; }
+#img-container .picture_holder { float: left; }
+#img-container .picture { /* padding-top: 10px; */ }
+#img-container .captioning .title { margin-top: 12px; font-weight: bold; }
+#img-container .captioning .caption { }
+</style>
+
+		<script type='text/javascript' src='http://www.lesliezhang.com/ndxz-studio/site/js/jquery.js'></script>
+		<script type='text/javascript' src='http://www.lesliezhang.com/ndxz-studio/site/js/cookie.js'></script>
+		
+		<script type='text/javascript'>
+		path = 'http://www.lesliezhang.com/files/gimgs/';
+
+		$(document).ready(function()
+		{
+			setTimeout('move_up()', 1);
+		});
+		</script>
+		
+		
+		</head>
+
+		<body class='section-1'>
+		<div id='menu'>
+
+
+		<div class='title'>
+		<p><a href="http://www.lesliezhang.com"><img src='http://www.lesliezhang.com/files/gimgs/34_8000.jpg' width='180' height='100' /></p>
+
+
+		<div class='container'>
+        <ul>
+<li class='section-title'>Personal Projects</li>
+<li><a href='http://www.lesliezhang.com/projects/bottle-rocket/' onclick="do_click();">Bottle Rocket</a></li>
+<li><a href='http://www.lesliezhang.com/personal-projects/balancing-equations/' onclick="do_click();">tiny lives</a></li>
+<li><a href='http://www.lesliezhang.com/personal-projects/2015---2017/' onclick="do_click();">Les Lies</a></li>
+</ul>
+
+<ul>
+<li class='section-title'>Features</li>
+<li><a href='http://www.lesliezhang.com/works/in-bloom/' onclick="do_click();">In Bloom</a></li>
+<li><a href='http://www.lesliezhang.com/personal-projects/little-flexes/' onclick="do_click();">Little Flexes</a></li>
+</ul>
+
+<ul>
+<li class='section-title'>Fashion Commissions</li>
+<li><a href='http://www.lesliezhang.com/2/' onclick="do_click();">日出処</a></li>
+<li><a href='http://www.lesliezhang.com/2018/' onclick="do_click();">2018</a></li>
+<li><a href='http://www.lesliezhang.com/2017/' onclick="do_click();">2017</a></li>
+<li><a href='http://www.lesliezhang.com/personalities/' onclick="do_click();">Personalities</a></li>
+<li class='active'><a href='http://www.lesliezhang.com/' onclick="do_click();"> </a></li>
+</ul>
+
+<ul>
+<li class='section-title'>Info</li>
+<li><a href='http://www.lesliezhang.com/cg/about/' onclick="do_click();">About</a></li>
+</ul>
+
+
+		
+		
+		<!-- you must provide a link to Indexhibit on your site someplace - thank you -->
+
+        </div>
+		</div>	
+		</div>	
+
+		<div id='content'>
+		<div class='container'>
+
+		<!-- text and image -->
+		<div id='img-container'>
+<div class='picture_holder' style='width: 1474px;'>
+<div class='picture' style='width: 1424px;'>
+<img src='http://www.lesliezhang.com/files/gimgs/1_222231.jpg' width='1424' height='900' alt='http://www.lesliezhang.com/files/gimgs/1_222231.jpg' />
+<div class='captioning'></div>
+</div>
+</div>
+
+<div style='clear: left;'><!-- --></div></div>
+
+		<!-- end text and image -->
+
+		</div>
+		</div>
+		
+		</body>
+		</html>
